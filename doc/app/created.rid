@@ -1,0 +1,7 @@
+Fri, 13 May 2011 17:05:32 -0400
+doc/README_FOR_APP	Thu, 12 May 2011 16:17:57 -0400
+app/controllers/application_controller.rb	Thu, 12 May 2011 16:17:56 -0400
+app/controllers/home_controller.rb	Thu, 12 May 2011 16:51:58 -0400
+app/helpers/application_helper.rb	Thu, 12 May 2011 16:17:56 -0400
+app/helpers/home_helper.rb	Thu, 12 May 2011 16:51:58 -0400
+app/models/user.rb	Fri, 13 May 2011 16:58:01 -0400

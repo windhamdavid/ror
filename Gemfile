@@ -14,6 +14,12 @@ gem 'uglifier'
 
 gem 'jquery-rails'
 
+# authentication and authorization
+gem "devise"
+gem "cancan"
+
+
+
 # Use unicorn as the web server
 # gem 'unicorn'
 
@@ -21,7 +27,7 @@ gem 'jquery-rails'
 # gem 'capistrano'
 
 # To use debugger
- gem 'ruby-debug19', :require => 'ruby-debug'
+# gem 'ruby-debug19', :require => 'ruby-debug'
 
 group :test do
   # Pretty printed test output
